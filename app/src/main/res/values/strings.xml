@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="TextView">TextView</string>
+    <string name="Choose">Choose</string>
+</resources>
